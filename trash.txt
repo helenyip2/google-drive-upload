@@ -1,0 +1,8 @@
+pandas                   0.25.3     
+pandas-datareader        0.7.4      
+pandas-gbq               0.11.0     
+pandas-profiling         1.4.1      
+sklearn-pandas           1.8.0      
+sklearn                  0.0        
+sklearn-pandas           1.8.0      
+scikit-learn             0.21.3     
